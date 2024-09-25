@@ -5,7 +5,7 @@ This repo contains minimal inference code to run text-to-image and image-to-imag
 ## Local installation
 
 ```bash
-cd $HOME && git clone https://github.com/black-forest-labs/flux
+cd $HOME && git clone https://github.com/MRITUNJAYSINGH04/Text2image-Flux-.git
 cd $HOME/flux
 python3.10 -m venv .venv
 source .venv/bin/activate
